@@ -1,0 +1,7 @@
+[package]
+name = "biotest"
+version = "0.1.0"
+authors = ["Taylor Cramer <cramertj@cs.washington.edu>"]
+
+[dependencies]
+bio = "0.4.0"
